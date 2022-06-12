@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Milan Withanage</h1>
 <h3 align="center">An IT undergraduate of University of Moratuwa from Sri Lanka</h3>
+<img align="right" alt="Coding" width="400" src="https://www.pinterest.com/pin/706713366498389652/">
 
 - 🔭 I’m currently working on **Booking Application for Medical Centers Project**
 
