@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 💬 Ask me about **Java, C, HTML, CSS, MySQL**
+- 💬 Ask me about **Java, C, JavaScript, HTML, CSS, MySQL**
 
 - 📫 How to reach me **milanwithana97@gmail.com**
 
