@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/max/1400/1*uhto-quyYXWqGUmFH7o3RA.gif)
+[![An image of @milwith's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/milwith)](https://holopin.io/@milwith)
 <h1 align="center">Hi 👋, I'm Milan Withanage</h1>
 <h3 align="center">An IT undergraduate of University of Moratuwa from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
