@@ -2,9 +2,9 @@
 <h3 align="center">An IT undergraduate of University of Moratuwa from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
-- 🔭 I’m currently working on **Booking Application for Medical Centers Project**
+- 🔭 I’m currently working on **Final year Research Project**
 
-- 🌱 I’m currently learning **Java, React.js and Node.js**
+- 🌱 I’m currently learning **New Tech stuffs related to Computer Vision**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
