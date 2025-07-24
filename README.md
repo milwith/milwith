@@ -1,16 +1,36 @@
 <h1 align="center">Hi 👋, I'm Milan Withanage</h1>
-<h3 align="center">Full Stack Software Engineer at Central Finance PLC | Passionate about Fintech & Modern Web Technologies</h3>
+<h3 align="center">
+  Full Stack Software Engineer at Central Finance PLC<br/>
+  Passionate about Fintech, DevOps, and Modern Web Technologies
+</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
-- 🔭 I’m currently working on **Fintech domain projects** such as banking and savings systems
+- 🔭 I’m currently working on **enterprise-grade Fintech systems** including banking, lending, and savings platforms
 
-- 🌱 I’m currently exploring **cutting-edge technologies in Computer Vision and Microservices**
+- 🌱 I’m currently deep-diving into **Microservices Architecture, Docker, Kubernetes, and Cloud-Native Development**
 
-- 👯 I’m looking to collaborate on **Open Source and Real-world Full Stack Projects**
+- 👯 I’m eager to collaborate on **Open Source projects and scalable Full Stack applications**
 
-- 💬 Ask me about **Java, C, JavaScript, HTML, CSS, MySQL, Oracle SQL, TypeScript, Kafka, and Full Stack Development**
+- ⚙️ My tech stack includes
+  
+  Languages : **Java, C, JavaScript, TypeScript**
+  
+  Frontend : **HTML, CSS, Angular**
+  
+  Backend : **Spring Boot, Node.js**
+  
+  Databases : **MySQL, Oracle SQL**
+  
+  DevOps & Tools : **Docker, Git, Jenkins, Kafka, Postman, Linux**  
 
-- 📫 How to reach me **milanwithana97@gmail.com**
+- 🧠 I'm also exploring **CI/CD pipelines, container orchestration, and cloud infrastructure (AWS basics)**
+
+- 💬 Ask me about **Backend development, REST APIs, SQL optimization, Docker, and building robust full-stack apps**
+
+- 📫 Reach me at **milanwithana97@gmail.com**
+
+- 🚀 I bring a blend of **development and DevOps knowledge**, making me a strong asset for building, deploying, and scaling applications efficiently.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
