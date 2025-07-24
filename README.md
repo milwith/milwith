@@ -15,7 +15,7 @@
   
   Languages : **Java, C, JavaScript, TypeScript**
   
-  Frontend : **HTML, CSS, Angular**
+  Frontend : **HTML, CSS, AngularJS, React, Next.js**
   
   Backend : **Spring Boot, Node.js**
   
